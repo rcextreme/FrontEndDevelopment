@@ -1,0 +1,21 @@
+<!-- This example uses a CSS Styles class to add a background color to a division element
+
+<style>
+  .silver-background {
+  background-color: silver;
+  }
+</style>
+
+
+<div class=silver-background >
+  <p>Heading1</p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+  </ul>
+  <p>Heading2</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+  </ol>
+</div>
