@@ -1,8 +1,16 @@
 <!-- Every HTML page has a body element.  This element exists by default and doesn't have to be defined.
-You can change the color of the page using this code -->
+You can change the backgroun color of the page using this code -->
 
 <style>
   body {
   background-color: black;
+  }
+</style>
+
+<!-- Or you can use a similar syntax to change the default text color in the page as follow -->
+
+<style>
+  body {
+    color: green;
   }
 </style>
