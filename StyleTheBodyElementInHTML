@@ -1,3 +1,5 @@
+<!-- Every HTML page has a body element.  This element exists by default and doesn't have to be defined.
+You can change the color of the page using this code -->
 
 <style>
   body {
