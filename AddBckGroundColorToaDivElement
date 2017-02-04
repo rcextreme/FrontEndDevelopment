@@ -1,6 +1,6 @@
 <!-- This example uses a CSS Styles class to add a background color to a division element -->
 
-<!-- First you can do this directly in the div element -->
+<!-- First you can do this directly in the div element using an "Inline Stye" -->
 <div   style="background-color:red">
 <h1> Hello World </h1>
 </div>
