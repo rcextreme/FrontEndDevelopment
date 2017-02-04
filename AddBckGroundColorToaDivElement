@@ -1,11 +1,18 @@
-<!-- This example uses a CSS Styles class to add a background color to a division element
+<!-- This example uses a CSS Styles class to add a background color to a division element -->
+
+<!-- First you can do this directly in the div element -->
+<div   style="background-color:red">
+<h1> Hello World </h1>
+</div>
+
+
+<!-- Second, a better way to do this is with CSS -->
 
 <style>
   .silver-background {
   background-color: silver;
   }
 </style>
-
 
 <div class=silver-background >
   <p>Heading1</p>
